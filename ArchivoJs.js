@@ -1,0 +1,2 @@
+alert("HolaMundo");
+alert("");
